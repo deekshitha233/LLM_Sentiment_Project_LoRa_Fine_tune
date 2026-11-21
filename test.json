@@ -1,0 +1,32 @@
+[
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "I really love this product",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "I purchased this product last week",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "I am very happy with the service",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The product stopped working",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "I received the order yesterday",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "Delivery was extremely late",
+        "output": "Negative"
+    }
+]

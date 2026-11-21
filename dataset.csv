@@ -1,0 +1,132 @@
+
+text,label
+"The product quality is excellent",Positive
+"I am very happy with the service",Positive
+"Delivery was very fast",Positive
+"Excellent customer support",Positive
+"I really love this product",Positive
+"The experience was amazing",Positive
+"Good quality and affordable price",Positive
+"Very satisfied with my purchase",Positive
+"The product works perfectly",Positive
+"Great experience overall",Positive
+"The product is completely damaged",Negative
+"Very poor customer service",Negative
+"I am disappointed with this product",Negative
+"Delivery was extremely late",Negative
+"The quality is terrible",Negative
+"Not worth the money",Negative
+"The product stopped working",Negative
+"Very bad experience",Negative
+"I will never buy this again",Negative
+"Customer support was unhelpful",Negative
+"The delivery arrived today",Neutral
+"The package contains two items",Neutral
+"I received the order yesterday",Neutral
+"The product is black in colour",Neutral
+"The package was delivered at 5 PM",Neutral
+"The order contains a charger",Neutral
+"I purchased this product last week",Neutral
+"The product comes with a manual",Neutral
+"The delivery person called me",Neutral
+"The product has a one-year warranty",Neutral
+
+text,label
+"The product quality is excellent",Positive
+"I am very happy with the service",Positive
+"Delivery was very fast",Positive
+"Excellent customer support",Positive
+"I really love this product",Positive
+"The experience was amazing",Positive
+"Good quality and affordable price",Positive
+"Very satisfied with my purchase",Positive
+"The product works perfectly",Positive
+"Great experience overall",Positive
+"The packaging was beautiful",Positive
+"I would highly recommend this product",Positive
+"Customer service was very helpful",Positive
+"The product exceeded my expectations",Positive
+"Fast delivery and excellent quality",Positive
+"I am impressed with the performance",Positive
+"Very comfortable and easy to use",Positive
+"The price is reasonable and fair",Positive
+"Everything was perfect",Positive
+"I am extremely satisfied",Positive
+"The product looks beautiful",Positive
+"Excellent value for money",Positive
+"The seller was very friendly",Positive
+"I received exactly what I ordered",Positive
+"The product is reliable and durable",Positive
+"Wonderful shopping experience",Positive
+"The instructions were very clear",Positive
+"I will definitely purchase again",Positive
+"Very happy with the overall experience",Positive
+"The product is worth every penny",Positive
+"Customer support solved my problem quickly",Positive
+"The quality is better than expected",Positive
+"Delivery was earlier than expected",Positive
+"This is one of my best purchases",Positive
+"The product is completely damaged",Negative
+"Very poor customer service",Negative
+"I am disappointed with this product",Negative
+"Delivery was extremely late",Negative
+"The quality is terrible",Negative
+"Not worth the money",Negative
+"The product stopped working",Negative
+"Very bad experience",Negative
+"I will never buy this again",Negative
+"Customer support was unhelpful",Negative
+"The packaging was damaged",Negative
+"The product is difficult to use",Negative
+"I received the wrong item",Negative
+"The battery drains very quickly",Negative
+"Very poor quality for the price",Negative
+"The seller was rude",Negative
+"The product does not work properly",Negative
+"I regret purchasing this item",Negative
+"The delivery service was terrible",Negative
+"The product broke after one day",Negative
+"Extremely unhappy with the purchase",Negative
+"The instructions were confusing",Negative
+"The item was missing from the package",Negative
+"The performance is very disappointing",Negative
+"I had a frustrating experience",Negative
+"The product is overpriced",Negative
+"Nobody responded to my complaint",Negative
+"The product does not meet expectations",Negative
+"Poor packaging and slow delivery",Negative
+"I am not satisfied with the quality",Negative
+"The delivery arrived today",Neutral
+"The package contains two items",Neutral
+"I received the order yesterday",Neutral
+"The product is black in colour",Neutral
+"The package was delivered at 5 PM",Neutral
+"The order contains a charger",Neutral
+"I purchased this product last week",Neutral
+"The product comes with a manual",Neutral
+"The delivery person called me",Neutral
+"The product has a one-year warranty",Neutral
+"The product weighs two kilograms",Neutral
+"The order was placed on Monday",Neutral
+"The package contains three accessories",Neutral
+"The product is available in four colours",Neutral
+"The invoice was sent by email",Neutral
+"The product was manufactured in India",Neutral
+"The delivery address is in Bangalore",Neutral
+"The box contains a user guide",Neutral
+"The order number is 12345",Neutral
+"The product has a USB charging port",Neutral
+"The package arrived in the morning",Neutral
+"The product was purchased online",Neutral
+"The warranty period is twelve months",Neutral
+"The item is currently in stock",Neutral
+"The product measures ten inches",Neutral
+"The order was shipped on Friday",Neutral
+"The package contains a charging cable",Neutral
+"The product is made of plastic",Neutral
+"The delivery person visited my house",Neutral
+"The product model number is A102",Neutral
+"The box contains one mobile phone",Neutral
+"The product was launched last year",Neutral
+"The order contains a black cover",Neutral
+"The invoice includes the purchase date",Neutral

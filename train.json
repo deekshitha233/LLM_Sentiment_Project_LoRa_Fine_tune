@@ -1,0 +1,122 @@
+[
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "I am disappointed with this product",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The product quality is excellent",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "Very poor customer service",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The quality is terrible",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "I will never buy this again",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The delivery person called me",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The product is black in colour",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "Good quality and affordable price",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "Very bad experience",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The product works perfectly",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The delivery arrived today",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The product is completely damaged",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "Customer support was unhelpful",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "Excellent customer support",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "Not worth the money",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The package was delivered at 5 PM",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "Delivery was very fast",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The product comes with a manual",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The product has a one-year warranty",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The package contains two items",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "Great experience overall",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "Very satisfied with my purchase",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The experience was amazing",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this customer feedback as Positive, Negative, or Neutral.",
+        "input": "The order contains a charger",
+        "output": "Neutral"
+    }
+]
